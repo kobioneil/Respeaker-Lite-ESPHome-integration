@@ -2,7 +2,7 @@
     "type": "micro",
     "wake_word": "listen_to_me_2",
     "author": "kobioneil",
-    "website": "https://github.com/kobioneil/micro-wake-word-models/releases/download/latest/listen_to_me_2.tflite",
+    "website": "https://github.com/kobioneil/Respeaker-Lite-ESPHome-integration/blob/main/microwakeword/models/v2/listen_to_me_2.tflite",
     "model": "listen_to_me_2.tflite",
     "trained_languages": ["en"],
     "version": "2",
